@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "209561528478",
+    "firebase_url": "https://rides365-ef6c5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rides365-ef6c5",
+    "storage_bucket": "rides365-ef6c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209561528478:android:d454507da60e60561bb38f",
+        "android_client_info": {
+          "package_name": "com.rides365.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsooNj8wUkJMCzSZvQPiguSNGqG4Gujz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209561528478:android:12ca1169b8c5c21a1bb38f",
+        "android_client_info": {
+          "package_name": "com.rides365.rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsooNj8wUkJMCzSZvQPiguSNGqG4Gujz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
