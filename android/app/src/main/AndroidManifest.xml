@@ -63,7 +63,7 @@
             android:screenOrientation="portrait"
             android:theme="@style/Ucrop.CropTheme"/>
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyAi56YGt4wbuAjnueI7VX0rWezD6atgXBc"/>
+               android:value=""/>
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <meta-data
